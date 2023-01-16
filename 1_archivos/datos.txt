@@ -1,0 +1,7 @@
+hola
+este es un archivo de texto
+esta es otra linea
+aqui acaba el archivo
+parse
+analizar
+parsear
